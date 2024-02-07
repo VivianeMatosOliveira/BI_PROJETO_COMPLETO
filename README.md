@@ -4,11 +4,11 @@ Esse projeto de Business Intelligence(BI) contempla todas as etapas de um projet
 
 **Ferramentas utilizadas:**
 
-*Power BI - Visualização de dados
+* Power BI - Visualização de dados
 
-*Talend - ETL - Extração , transformação e carga dos dados do sistema transacional para analítico(Habilidade Data Engineer)
+* Talend - ETL - Extração , transformação e carga dos dados do sistema transacional para analítico(Habilidade Data Engineer)
 
-*SQL Server - Banco de dados transacional(OLTP) e analitico(OLAP)
+* SQL Server - Banco de dados transacional(OLTP) e analitico(OLAP)
 
 **Através desse projeto foi possível desenvolver as seguintes habilidades:**
 
